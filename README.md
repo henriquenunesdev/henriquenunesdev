@@ -1,4 +1,4 @@
-- 👋 Olá, sou o Henrique Nunes, Desenvolvedor back-end Java.
+- 👋 Olá, sou o Henrique, Desenvolvedor back-end Java.
   
 - 👀 Graduando em Engenharia de Software e formado em Analise e Desenvolvimento de Sistemas.
   
